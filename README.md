@@ -6,3 +6,5 @@ This is a bot designed to work with new BSC tokens. This will work for any token
 It can be slow and uses some *questionable* ways around things but gets the job done without big exchange's API's, perfect for new or small coins.
 
 Your discord token, BSC token and burn address (if you have one) will need to be added to the .env file. Once this is done, you can run.
+
+Enjoy!
